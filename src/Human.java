@@ -1,5 +1,7 @@
 
 public class Human extends Rasa {
+	// TODO implement instead extend
+	// TODO need to add constructor with and w/o values
 
 	@Override
 	public void name() {

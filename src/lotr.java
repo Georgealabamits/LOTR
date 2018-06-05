@@ -2,6 +2,7 @@
 public class lotr {
 
 	public static void main(String[] args) {
+
 		System.out.println("There is the Humans hero:");
 		Human h = new Human();
 		h.name();
